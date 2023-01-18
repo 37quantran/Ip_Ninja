@@ -1,1 +1,1 @@
-QuanDz:0.tcp.ap.ngrok.io:17424:0:0
+QuanDz:0.tcp.ap.ngrok.io:10587:0:0
